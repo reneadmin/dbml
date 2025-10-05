@@ -1,0 +1,12 @@
+Table "ba"."ba_employee"   [note: 'This is the table level note!!!!'] {
+    "EMPLOYEE_KEY" TEXT   [pk]
+    "EMPLOYEE_NAME" TEXT [note: 'Employee Lastname']
+    "EMPLOYEE_KEY_MANAGER" TEXT 
+}
+Table "ba"."ba_salesorder"  {
+    "SALESORDER_KEY" TEXT   [pk]
+    "EMPLOYEE_KEY_SALES" TEXT 
+}
+
+Ref:"ba"."ba_employee"."EMPLOYEE_KEY_MANAGER" > "ba"."ba_employee"."EMPLOYEE_KEY" 
+Ref:"ba"."ba_salesorder"."EMPLOYEE_KEY_SALES" > "ba"."ba_employee"."EMPLOYEE_KEY"

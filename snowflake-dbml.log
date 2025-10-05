@@ -1,0 +1,106 @@
+2025-02-16 10:54:46,372 - __main__ - DEBUG - Generating DBML
+2025-02-16 10:54:46,372 - __main__ - DEBUG - Connection Params: {'user': 'rene.nadorp@inergy.nl', 'password': '****', 'account': 'caldic.west-europe.azure', 'warehouse': 'wh_misc_dev', 'database': 'DWH_DEV', 'role': 'developer'}
+2025-02-16 10:54:46,372 - __main__ - DEBUG - Primary Key Hints: {}
+2025-02-16 10:54:46,372 - __main__ - DEBUG - Visualization Params: {'table_color': '#3498db', 'view_color': '#9b59b6', 'dynamic_table_color': '#9b59b6'}
+2025-02-16 10:54:46,372 - __main__ - INFO - Fetching data from Snowflake starting.
+2025-02-16 10:54:46,376 - snowflake.connector.connection - INFO - Snowflake Connector for Python Version: 3.9.1, Python Version: 3.13.1, Platform: macOS-15.3.1-arm64-arm-64bit-Mach-O
+2025-02-16 10:54:46,376 - snowflake.connector.connection - INFO - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2025-02-16 10:55:57,169 - __main__ - DEBUG - Generating DBML
+2025-02-16 10:55:57,170 - __main__ - DEBUG - Connection Params: {'user': 'rene.nadorp@inergy.nl', 'password': '****', 'account': 'caldic.west-europe.azure', 'warehouse': 'wh_misc_dev', 'database': 'DWH_DEV', 'role': 'developer'}
+2025-02-16 10:55:57,170 - __main__ - DEBUG - Primary Key Hints: {}
+2025-02-16 10:55:57,170 - __main__ - DEBUG - Visualization Params: {'table_color': '#3498db', 'view_color': '#9b59b6', 'dynamic_table_color': '#9b59b6'}
+2025-02-16 10:55:57,170 - __main__ - INFO - Fetching data from Snowflake starting.
+2025-02-16 10:55:57,173 - snowflake.connector.connection - INFO - Snowflake Connector for Python Version: 3.9.1, Python Version: 3.13.1, Platform: macOS-15.3.1-arm64-arm-64bit-Mach-O
+2025-02-16 10:55:57,173 - snowflake.connector.connection - INFO - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2025-02-16 10:57:14,259 - __main__ - DEBUG - Generating DBML
+2025-02-16 10:57:14,259 - __main__ - DEBUG - Connection Params: {'user': 'rene.nadorp@inergy.nl', 'password': '****', 'account': 'caldic.west-europe.azure', 'warehouse': 'wh_misc_dev', 'database': 'DWH_DEV', 'role': 'developer'}
+2025-02-16 10:57:14,259 - __main__ - DEBUG - Primary Key Hints: {}
+2025-02-16 10:57:14,259 - __main__ - DEBUG - Visualization Params: {'table_color': '#3498db', 'view_color': '#9b59b6', 'dynamic_table_color': '#9b59b6'}
+2025-02-16 10:57:14,259 - __main__ - INFO - Fetching data from Snowflake starting.
+2025-02-16 10:57:14,263 - snowflake.connector.connection - INFO - Snowflake Connector for Python Version: 3.9.1, Python Version: 3.13.1, Platform: macOS-15.3.1-arm64-arm-64bit-Mach-O
+2025-02-16 10:57:14,263 - snowflake.connector.connection - INFO - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2025-02-16 14:46:01,150 - snowflake_dbml.generator - DEBUG - Generating DBML
+2025-02-16 14:46:01,150 - snowflake_dbml.generator - DEBUG - Connection Params: {'user': 'rene.nadorp@inergy.nl', 'password': '****', 'account': 'caldic.west-europe.azure', 'warehouse': 'wh_misc_dev', 'database': 'DWH_DEV', 'role': 'developer'}
+2025-02-16 14:46:01,150 - snowflake_dbml.generator - DEBUG - Primary Key Hints: {}
+2025-02-16 14:46:01,150 - snowflake_dbml.generator - DEBUG - Visualization Params: {'table_color': '#3498db', 'view_color': '#9b59b6', 'dynamic_table_color': '#9b59b6'}
+2025-02-16 14:46:01,150 - snowflake_dbml.generator - INFO - Fetching data from Snowflake starting.
+2025-02-16 14:46:01,153 - snowflake.connector.connection - INFO - Snowflake Connector for Python Version: 3.9.1, Python Version: 3.13.1, Platform: macOS-15.3.1-arm64-arm-64bit-Mach-O
+2025-02-16 14:46:01,153 - snowflake.connector.connection - INFO - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2025-02-16 14:46:46,117 - snowflake_dbml.generator - DEBUG - Generating DBML
+2025-02-16 14:46:46,117 - snowflake_dbml.generator - DEBUG - Connection Params: {'user': 'rene.nadorp@inergy.nl', 'password': '****', 'account': 'caldic.west-europe.azure', 'warehouse': 'wh_misc_dev', 'database': 'DWH_DEV', 'role': 'developer'}
+2025-02-16 14:46:46,117 - snowflake_dbml.generator - DEBUG - Primary Key Hints: {}
+2025-02-16 14:46:46,117 - snowflake_dbml.generator - DEBUG - Visualization Params: {'table_color': '#3498db', 'view_color': '#9b59b6', 'dynamic_table_color': '#9b59b6'}
+2025-02-16 14:46:46,117 - snowflake_dbml.generator - INFO - Fetching data from Snowflake starting.
+2025-02-16 14:46:46,120 - snowflake.connector.connection - INFO - Snowflake Connector for Python Version: 3.9.1, Python Version: 3.13.1, Platform: macOS-15.3.1-arm64-arm-64bit-Mach-O
+2025-02-16 14:46:46,120 - snowflake.connector.connection - INFO - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2025-02-16 14:46:49,523 - snowflake_dbml.generator - DEBUG - Generating DBML
+2025-02-16 14:46:49,523 - snowflake_dbml.generator - DEBUG - Connection Params: {'user': 'rene.nadorp@inergy.nl', 'password': '****', 'account': 'caldic.west-europe.azure', 'warehouse': 'wh_misc_dev', 'database': 'DWH_DEV', 'role': 'developer'}
+2025-02-16 14:46:49,523 - snowflake_dbml.generator - DEBUG - Primary Key Hints: {}
+2025-02-16 14:46:49,523 - snowflake_dbml.generator - DEBUG - Visualization Params: {'table_color': '#3498db', 'view_color': '#9b59b6', 'dynamic_table_color': '#9b59b6'}
+2025-02-16 14:46:49,523 - snowflake_dbml.generator - INFO - Fetching data from Snowflake starting.
+2025-02-16 14:46:49,526 - snowflake.connector.connection - INFO - Snowflake Connector for Python Version: 3.9.1, Python Version: 3.13.1, Platform: macOS-15.3.1-arm64-arm-64bit-Mach-O
+2025-02-16 14:46:49,526 - snowflake.connector.connection - INFO - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2025-02-16 14:55:39,274 - snowflake_dbml.generator - DEBUG - Generating DBML
+2025-02-16 14:55:39,274 - snowflake_dbml.generator - DEBUG - Connection Params: {'user': 'rene.nadorp@inergy.nl', 'password': '****', 'account': 'caldic.west-europe.azure', 'warehouse': 'wh_misc_dev', 'database': 'DWH_DEV', 'role': 'developer'}
+2025-02-16 14:55:39,274 - snowflake_dbml.generator - DEBUG - Primary Key Hints: {}
+2025-02-16 14:55:39,274 - snowflake_dbml.generator - DEBUG - Visualization Params: {'table_color': '#3498db', 'view_color': '#9b59b6', 'dynamic_table_color': '#9b59b6'}
+2025-02-16 14:55:39,275 - snowflake_dbml.generator - INFO - Fetching data from Snowflake starting.
+2025-02-16 14:55:39,278 - snowflake.connector.connection - INFO - Snowflake Connector for Python Version: 3.9.1, Python Version: 3.13.1, Platform: macOS-15.3.1-arm64-arm-64bit-Mach-O
+2025-02-16 14:55:39,278 - snowflake.connector.connection - INFO - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2025-02-17 15:31:48,897 - snowflake_dbml.generator - DEBUG - Generating DBML
+2025-02-17 15:31:48,897 - snowflake_dbml.generator - DEBUG - Connection Params: {'user': None, 'password': '****', 'account': None, 'warehouse': None, 'database': None, 'role': None, 'authenticator': None}
+2025-02-17 15:31:48,897 - snowflake_dbml.generator - DEBUG - Primary Key Hints: {}
+2025-02-17 15:31:48,897 - snowflake_dbml.generator - DEBUG - Visualization Params: {'table_color': '#3498db', 'view_color': '#9b59b6', 'dynamic_table_color': '#9b59b6'}
+2025-02-17 15:31:48,897 - snowflake_dbml.generator - INFO - Fetching data from Snowflake starting.
+2025-02-17 15:37:27,749 - snowflake_dbml.generator - DEBUG - Generating DBML
+2025-02-17 15:37:27,749 - snowflake_dbml.generator - DEBUG - Connection Params: {'user': None, 'password': '****', 'account': None, 'warehouse': None, 'database': None, 'role': None, 'authenticator': None}
+2025-02-17 15:37:27,749 - snowflake_dbml.generator - DEBUG - Primary Key Hints: {}
+2025-02-17 15:37:27,749 - snowflake_dbml.generator - DEBUG - Visualization Params: {'table_color': '#3498db', 'view_color': '#9b59b6', 'dynamic_table_color': '#9b59b6'}
+2025-02-17 15:37:27,749 - snowflake_dbml.generator - INFO - Fetching data from Snowflake starting.
+2025-02-17 15:38:16,521 - snowflake_dbml.generator - DEBUG - Generating DBML
+2025-02-17 15:38:16,521 - snowflake_dbml.generator - DEBUG - Connection Params: {'user': 'rene.nadorp@inergy.nl', 'password': '****', 'account': 'caldic.west-europe.azure', 'warehouse': 'wh_misc_dev', 'database': 'DWH_DEV', 'role': 'developer', 'authenticator': 'EXTERNALBROWSER'}
+2025-02-17 15:38:16,521 - snowflake_dbml.generator - DEBUG - Primary Key Hints: {}
+2025-02-17 15:38:16,521 - snowflake_dbml.generator - DEBUG - Visualization Params: {'table_color': '#3498db', 'view_color': '#9b59b6', 'dynamic_table_color': '#9b59b6'}
+2025-02-17 15:38:16,521 - snowflake_dbml.generator - INFO - Fetching data from Snowflake starting.
+2025-02-17 15:39:47,700 - snowflake_dbml.generator - DEBUG - Generating DBML
+2025-02-17 15:39:47,700 - snowflake_dbml.generator - DEBUG - Connection Params: {'user': 'rene.nadorp@inergy.nl', 'password': '****', 'account': 'caldic.west-europe.azure', 'warehouse': 'wh_misc_dev', 'database': 'DWH_DEV', 'role': 'developer', 'authenticator': 'EXTERNALBROWSER'}
+2025-02-17 15:39:47,700 - snowflake_dbml.generator - DEBUG - Primary Key Hints: {}
+2025-02-17 15:39:47,700 - snowflake_dbml.generator - DEBUG - Visualization Params: {'table_color': '#3498db', 'view_color': '#9b59b6', 'dynamic_table_color': '#9b59b6'}
+2025-02-17 15:39:47,700 - snowflake_dbml.generator - INFO - Fetching data from Snowflake starting.
+2025-02-17 15:39:47,703 - snowflake.connector.connection - INFO - Snowflake Connector for Python Version: 3.9.1, Python Version: 3.13.1, Platform: macOS-15.3.1-arm64-arm-64bit-Mach-O
+2025-02-17 15:39:47,703 - snowflake.connector.connection - INFO - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2025-02-17 15:43:25,191 - snowflake.connector.cursor - INFO - Number of results in first chunk: 737
+2025-02-17 15:43:25,321 - snowflake.connector.ocsp_snowflake - ERROR - WARNING!!! Using fail-open to connect. Driver is connecting to an HTTPS endpoint without OCSP based Certificate Revocation checking as it could not obtain a valid OCSP Response to use from the CA OCSP responder. Details: 
+ {'driver': 'PythonConnector', 'version': '3.9.1', 'eventType': 'RevocationCheckFailure', 'eventSubType': 'OCSPResponseAttachedCertInvalid', 'sfcPeerHost': 'nbcvnpsfcb1stg.blob.core.windows.net', 'certId': 'MEowBwYFKw4DAhoEFLNP/OrByo2+E/2LhziwI/PYlvOsBBT+CXFAVQUQRNikgXW4nhrpSgaIyAITMwGUmKKf5h9lItWw8wAAAZSYog==', 'ocspRequestBase64': <asn1crypto.ocsp.OCSPRequest 4486973264 b'0R0P0N0L0J0\x07\x06\x05+\x0e\x03\x02\x1a\x04\x14\xb3O\xfc\xea\xc1\xca\x8d\xbe\x13\xfd\x8b\x878\xb0#\xf3\xd8\x96\xf3\xac\x04\x14\xfe\tq@U\x05\x10D\xd8\xa4\x81u\xb8\x9e\x1a\xe9J\x06\x88\xc8\x02\x133\x01\x94\x98\xa2\x9f\xe6\x1fe"\xd5\xb0\xf3\x00\x00\x01\x94\x98\xa2'>, 'ocspResponderURL': 'http://oneocsp.microsoft.com/ocsp', 'errorMessage': '254009: 254009: Failed to verify the signature', 'insecureMode': False, 'failOpen': True, 'cacheEnabled': True, 'cacheHit': True}
+2025-02-17 15:43:25,321 - snowflake.connector.ocsp_snowflake - ERROR - WARNING!!! Using fail-open to connect. Driver is connecting to an HTTPS endpoint without OCSP based Certificate Revocation checking as it could not obtain a valid OCSP Response to use from the CA OCSP responder. Details: 
+ {'driver': 'PythonConnector', 'version': '3.9.1', 'eventType': 'RevocationCheckFailure', 'eventSubType': 'OCSPResponseAttachedCertInvalid', 'sfcPeerHost': 'nbcvnpsfcb1stg.blob.core.windows.net', 'certId': 'MEowBwYFKw4DAhoEFLNP/OrByo2+E/2LhziwI/PYlvOsBBT+CXFAVQUQRNikgXW4nhrpSgaIyAITMwGUmKKf5h9lItWw8wAAAZSYog==', 'ocspRequestBase64': <asn1crypto.ocsp.OCSPRequest 4486963728 b'0R0P0N0L0J0\x07\x06\x05+\x0e\x03\x02\x1a\x04\x14\xb3O\xfc\xea\xc1\xca\x8d\xbe\x13\xfd\x8b\x878\xb0#\xf3\xd8\x96\xf3\xac\x04\x14\xfe\tq@U\x05\x10D\xd8\xa4\x81u\xb8\x9e\x1a\xe9J\x06\x88\xc8\x02\x133\x01\x94\x98\xa2\x9f\xe6\x1fe"\xd5\xb0\xf3\x00\x00\x01\x94\x98\xa2'>, 'ocspResponderURL': 'http://oneocsp.microsoft.com/ocsp', 'errorMessage': '254009: 254009: Failed to verify the signature', 'insecureMode': False, 'failOpen': True, 'cacheEnabled': True, 'cacheHit': True}
+2025-02-17 15:43:25,323 - snowflake.connector.ocsp_snowflake - ERROR - WARNING!!! Using fail-open to connect. Driver is connecting to an HTTPS endpoint without OCSP based Certificate Revocation checking as it could not obtain a valid OCSP Response to use from the CA OCSP responder. Details: 
+ {'driver': 'PythonConnector', 'version': '3.9.1', 'eventType': 'RevocationCheckFailure', 'eventSubType': 'OCSPResponseAttachedCertInvalid', 'sfcPeerHost': 'nbcvnpsfcb1stg.blob.core.windows.net', 'certId': 'MEowBwYFKw4DAhoEFLNP/OrByo2+E/2LhziwI/PYlvOsBBT+CXFAVQUQRNikgXW4nhrpSgaIyAITMwGUmKKf5h9lItWw8wAAAZSYog==', 'ocspRequestBase64': <asn1crypto.ocsp.OCSPRequest 4479678992 b'0R0P0N0L0J0\x07\x06\x05+\x0e\x03\x02\x1a\x04\x14\xb3O\xfc\xea\xc1\xca\x8d\xbe\x13\xfd\x8b\x878\xb0#\xf3\xd8\x96\xf3\xac\x04\x14\xfe\tq@U\x05\x10D\xd8\xa4\x81u\xb8\x9e\x1a\xe9J\x06\x88\xc8\x02\x133\x01\x94\x98\xa2\x9f\xe6\x1fe"\xd5\xb0\xf3\x00\x00\x01\x94\x98\xa2'>, 'ocspResponderURL': 'http://oneocsp.microsoft.com/ocsp', 'errorMessage': '254009: 254009: Failed to verify the signature', 'insecureMode': False, 'failOpen': True, 'cacheEnabled': True, 'cacheHit': True}
+2025-02-17 15:43:25,324 - snowflake.connector.ocsp_snowflake - ERROR - WARNING!!! Using fail-open to connect. Driver is connecting to an HTTPS endpoint without OCSP based Certificate Revocation checking as it could not obtain a valid OCSP Response to use from the CA OCSP responder. Details: 
+ {'driver': 'PythonConnector', 'version': '3.9.1', 'eventType': 'RevocationCheckFailure', 'eventSubType': 'OCSPResponseAttachedCertInvalid', 'sfcPeerHost': 'nbcvnpsfcb1stg.blob.core.windows.net', 'certId': 'MEowBwYFKw4DAhoEFLNP/OrByo2+E/2LhziwI/PYlvOsBBT+CXFAVQUQRNikgXW4nhrpSgaIyAITMwGUmKKf5h9lItWw8wAAAZSYog==', 'ocspRequestBase64': <asn1crypto.ocsp.OCSPRequest 4479954512 b'0R0P0N0L0J0\x07\x06\x05+\x0e\x03\x02\x1a\x04\x14\xb3O\xfc\xea\xc1\xca\x8d\xbe\x13\xfd\x8b\x878\xb0#\xf3\xd8\x96\xf3\xac\x04\x14\xfe\tq@U\x05\x10D\xd8\xa4\x81u\xb8\x9e\x1a\xe9J\x06\x88\xc8\x02\x133\x01\x94\x98\xa2\x9f\xe6\x1fe"\xd5\xb0\xf3\x00\x00\x01\x94\x98\xa2'>, 'ocspResponderURL': 'http://oneocsp.microsoft.com/ocsp', 'errorMessage': '254009: 254009: Failed to verify the signature', 'insecureMode': False, 'failOpen': True, 'cacheEnabled': True, 'cacheHit': True}
+2025-02-17 15:43:52,848 - snowflake.connector.cursor - INFO - Number of results in first chunk: 794
+2025-02-17 15:44:23,490 - snowflake.connector.cursor - INFO - Number of results in first chunk: 392
+2025-02-17 15:44:23,526 - snowflake.connector.connection - INFO - closed
+2025-02-17 15:44:23,586 - snowflake.connector.connection - INFO - No async queries seem to be running, deleting session
+2025-02-17 15:44:23,717 - snowflake_dbml.generator - INFO - Fetching data from Snowflake complete.
+2025-02-17 15:44:23,717 - snowflake_dbml.generator - INFO - Number of results for tables: 8452
+2025-02-17 15:44:23,717 - snowflake_dbml.generator - INFO - Number of results for primary_keys: 315
+2025-02-17 15:44:23,717 - snowflake_dbml.generator - INFO - Number of results for foreign_keys: 2127
+2025-02-17 15:45:00,506 - snowflake_dbml.generator - INFO - Snowflake DBML generator complete.
+2025-02-17 15:45:27,076 - snowflake_dbml.generator - DEBUG - Generating DBML
+2025-02-17 15:45:27,076 - snowflake_dbml.generator - DEBUG - Connection Params: {'user': 'rene.nadorp@inergy.nl', 'password': '****', 'account': 'caldic.west-europe.azure', 'warehouse': 'wh_misc_dev', 'database': 'DWH_DEV', 'role': 'developer', 'authenticator': 'EXTERNALBROWSER'}
+2025-02-17 15:45:27,076 - snowflake_dbml.generator - DEBUG - Primary Key Hints: {}
+2025-02-17 15:45:27,076 - snowflake_dbml.generator - DEBUG - Visualization Params: {'table_color': '#3498db', 'view_color': '#9b59b6', 'dynamic_table_color': '#9b59b6'}
+2025-02-17 15:45:27,076 - snowflake_dbml.generator - INFO - Fetching data from Snowflake starting.
+2025-02-17 15:45:27,080 - snowflake.connector.connection - INFO - Snowflake Connector for Python Version: 3.9.1, Python Version: 3.13.1, Platform: macOS-15.3.1-arm64-arm-64bit-Mach-O
+2025-02-17 15:45:27,080 - snowflake.connector.connection - INFO - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2025-02-17 15:47:35,214 - snowflake.connector.cursor - INFO - Number of results in first chunk: 737
+2025-02-17 15:47:49,285 - snowflake.connector.cursor - INFO - Number of results in first chunk: 794
+2025-02-17 15:48:06,556 - snowflake.connector.cursor - INFO - Number of results in first chunk: 392
+2025-02-17 15:48:06,601 - snowflake.connector.connection - INFO - closed
+2025-02-17 15:48:06,826 - snowflake.connector.connection - INFO - No async queries seem to be running, deleting session
+2025-02-17 15:48:06,918 - snowflake_dbml.generator - INFO - Fetching data from Snowflake complete.
+2025-02-17 15:48:06,918 - snowflake_dbml.generator - INFO - Number of results for tables: 8452
+2025-02-17 15:48:06,918 - snowflake_dbml.generator - INFO - Number of results for primary_keys: 315
+2025-02-17 15:48:06,918 - snowflake_dbml.generator - INFO - Number of results for foreign_keys: 2127
+2025-02-17 15:48:42,130 - snowflake_dbml.generator - INFO - Snowflake DBML generator complete.
